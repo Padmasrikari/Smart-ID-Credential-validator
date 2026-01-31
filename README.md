@@ -1,4 +1,4 @@
-# Smart Registration System – Day 2
+# Smart ID & Credential validator – Day 2
 
 ## Challenge Overview
 Day-2 focuses on building a **Smart Registration System** for a university.  
